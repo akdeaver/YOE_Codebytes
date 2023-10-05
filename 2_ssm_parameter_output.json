@@ -1,0 +1,40 @@
+{
+    "users": [
+        {
+            "name": "tiffany-m",
+            "Tags": [
+            {
+                "Document": "a59d3872-db8d-5e6a-a54f-84c645263e45",
+                "User": "27becff075c5884a4b242bca9f6062d0833a78a1"
+            }
+        ]
+        },
+        {
+            "name": "scott-ko",
+            "Tags": [
+            {
+                "Document": "18d1f690-52b2-559f-b35b-244a6c60c1fe",
+                "User": "9774b7f0573766b3f671418b395e10d202b8e478"
+            }
+        ]
+        },
+        {
+            "name": "mark-gr",
+            "Tags":[
+            {
+                "Document": "d6302193-3756-5310-88b9-7f7b283c12e3",
+                "User": "e59be447d7ab1ff20e9419d39d91aa4bee6182bb"
+            }
+        ]
+        },
+        {
+            "name": "alex-de",
+            "Tags": [
+            {
+                "Document": "b0cf67d9-7174-5486-8410-621dd3c3516a",
+                "User": "ca835a87fc600979675de4e4eaaf22e993f69cc2"
+            }
+        ]
+        }
+    ]
+}
