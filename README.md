@@ -6,25 +6,29 @@ The Repo holds the code bytes files for each exercise
 
 You will need to have a active saml2aws session to run these scripts
 
-### 8/24/23 - 1_SNS Topic Search
+### Week 1
+8/24/23 - Wk_1_SNS Topic Search
 Run file using the syntax: 
-    python sns_topic_search.py --tag <tag> --key <name>
+    python Wk_1_sns_topic_search.py --tag <tag> --key <name>
     use -h option for assistance
 
-### 8/31/23 - 2_SSM Paramter Seach
+### Week2 
+8/31/23 - Wk_2_SSM Paramter Seach
 Run file using the following syntax
-    python ssm_parameter_search.py --tag1 <tag> --key1 <key_name_> --tag2 <tag> --key2 <key_name_>
+    python Wk_2_ssm_parameter_search.py --tag1 <tag> --key1 <key_name_> --tag2 <tag> --key2 <key_name_>
     -h option will output format needed
 
-### 9/6/2023 3_Bucket Output
+### Week 3
+9/6/2023 Wk_3_Bucket Output
 Run file using the syntax:
-    python bucket_search.py -f <filename>
+    python Wk_3_bucket_search.py -f <filename>
 
 Outputs to file in json format.  I feel like I missed something on this one because it was so little code.
 
-### 9/14/2023 4_ EC2 Search and outputs
+### Week 4
+9/14/2023 Wk_4_ EC2 Search and outputs
 Run file with the following syntax 
-    python 4_ec2_search.py -t <tag> -v <value>
+    python Wk_4_ec2_search.py -t <tag> -v <value>
 
     It will output instance info matching the above.  I did not test to see what happens with multiple instances having similar tags...It might be a nightmare.
 
@@ -33,19 +37,23 @@ Run file with the following syntax
 - example2: test2
 return name, type and value of parameter
 
-### 9/20/2023 5_lambda_payload_response
+### Week 5
+9/20/2023 Wk_5_lambda_payload_response
 Run file with the following syntax 
-    python 5_lambda_payload_response.py -t <tag> -v <value>
+    python Wk_5_lambda_payload_response.py -t <tag> -v <value>
     You can also include payload but it is hard coded also
 
 This will output a json output from the lambda
 
-### 9/27/2023 6_s3_bucket_search.py
+### Week 6
+9/27/2023 Wk_6_s3_bucket_search.py
 Run file with the following syntax 
-    python 6_s3_bucket_search.py -t <tag> -v <value>
+    python Wk_6_s3_bucket_search.py -t <tag> -v <value>
 
     It will output bucket info matching the above and will write the contents of the bucket to a csv in that bucket.  It excludes other csv files.
 
+### Week 8
+10/25/2023 Wk_8_OOP
 
 ### Environment
 
