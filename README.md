@@ -54,7 +54,9 @@ Run file with the following syntax
 
 ### Week 8
 10/25/2023 Wk_8_OOP
-
+All files are in Wk_8_OOP Folder
+    You can test code with pytest and Wk_8_OOP/object_oriented_test.py
+    
 ### Environment
 
 - training10
