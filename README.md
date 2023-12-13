@@ -56,6 +56,23 @@ Run file with the following syntax
 10/25/2023 Wk_8_OOP
 All files are in Wk_8_OOP Folder
     You can test code with pytest and Wk_8_OOP/object_oriented_test.py
+
+### Week 9
+11/8/2023 Wk_9_Res_Api
+All Files are in the Wk_9_Res_Api Folder
+    You can test using Wk_9_Rest_Api.py pytest
+
+### Week 10
+Pending: Vacation
+
+### Week 11
+Pending: COVID
+
+### Week 12
+12/13/2023 Wk_12
+All Files are in the Wk_12 Folder
+    Flask app is created by running Dynamo_Query_SQL.py file
+    Pytest using Dynamo_Query_test.py
     
 ### Environment
 
