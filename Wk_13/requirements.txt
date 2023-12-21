@@ -1,0 +1,5 @@
+pytest
+flask
+boto3
+psycopg2
+requests

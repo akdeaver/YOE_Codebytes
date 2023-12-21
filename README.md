@@ -73,6 +73,12 @@ Pending: COVID
 All Files are in the Wk_12 Folder
     Flask app is created by running Dynamo_Query_SQL.py file
     Pytest using Dynamo_Query_test.py
+
+### Week 13
+12/21/2023 Wk_13
+All Files are in the Wk_13 Folder
+    Flask app is created by running Dynamo_Query_SQL.py in Wk_13 folder
+    Pytest is Dynamo_Query_test.pt in Wk_13 folder
     
 ### Environment
 
